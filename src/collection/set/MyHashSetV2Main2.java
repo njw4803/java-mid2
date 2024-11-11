@@ -1,4 +1,4 @@
-package collection.set.member;
+package collection.set;
 
 import collection.set.MyHashSetV2;
 import collection.set.member.Member;
