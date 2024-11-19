@@ -2,7 +2,7 @@ package collection.set.javaset;
 
 import java.util.*;
 
-public class JavaSetMain {
+public class JavaSetMain2 {
 
     public static void main(String[] args) {
         run(new HashSet<>());
